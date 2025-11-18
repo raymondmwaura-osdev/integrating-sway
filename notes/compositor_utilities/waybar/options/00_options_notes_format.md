@@ -18,12 +18,6 @@ Describe the operational effect of the option on Waybar’s behavior. Clarify ho
 
 ---
 
-### Usage Context
-
-Specify where the option is valid (e.g., “Applicable only within module blocks,” “Global bar-level parameter,” or “Exclusive to Sway-specific modules”). Include any dependencies or conditions under which the option is evaluated.
-
----
-
 ### Example
 
 Provide one minimal, correct JSON example that demonstrates typical usage of the option. The example should highlight only the option being documented to preserve focus.
@@ -33,11 +27,5 @@ Provide one minimal, correct JSON example that demonstrates typical usage of the
   "example-key": "example-value"
 }
 ```
-
----
-
-### Interactions and Caveats
-
-Document noteworthy interactions with other options, operational side effects, and implementation nuances (e.g., update timing, compositor compatibility, implicit defaults, or potential failure modes).
 
 ---
