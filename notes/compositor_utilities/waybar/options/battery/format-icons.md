@@ -43,7 +43,6 @@ Minimal JSON example:
     "discharging": "⚡",
     "empty": "❗",
     "unknown": "❓"
-* Use the unnamed register when you simply want default behavior.
   }
 }
 ```
